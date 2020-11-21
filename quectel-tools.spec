@@ -12,8 +12,8 @@ License:	uncertain
 # QLog allows internal tracing of the modem firmware
 # Obtained from
 # https://cnquectel-my.sharepoint.com/:f:/g/personal/europe-fae_quectel_com/EmuxQDS_WYhFsAttfULluywB8RK9znft_oAALHh8uPYNFg?e=3459qx
-Source0:	Quectel_QLog_Linux&Android_V1.5.zip
-Source1:	Quectel_LTE_QLog_Linux\&Android_User_Guide_V1.0.pdf
+Source0:	Quectel_QLog_Linux+Android_V1.5.zip
+Source1:	Quectel_LTE_QLog_Linux+Android_User_Guide_V1.0.pdf
 # QFirehose allows updating the firmware on Quectel modems
 # https://forum.pine64.org/showthread.php?tid=11815
 Source2:	https://universe2.us/collector/qfirehose_good.tar.zst
