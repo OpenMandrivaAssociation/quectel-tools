@@ -1,6 +1,6 @@
 Name:		quectel-tools
 Version:	1.5
-Release:	1
+Release:	2
 Summary:	Tools for working with Quectel cellular modems
 # License says it's "Public Domain and Open Source for Quectel customers
 # only", which is a bit of a contradiction in itself.
